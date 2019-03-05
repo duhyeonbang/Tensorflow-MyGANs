@@ -2,7 +2,7 @@
 * Tensorflow implementation related to my research
 * All implementation is based on DCGAN arcitecture (https://arxiv.org/abs/1511.06434)
   * RFGAN (Improved Training of Generative Adversarial Networks using Representative Features)
-    * http://proceedings.mlr.press/v80/yingzhen18a.html
+    * http://proceedings.mlr.press/v80/bang18a.html
   * ResembledGAN (Resembled Generative Adversarial Networks: Two Domains with Similar Attributes)
     * http://bmvc2018.org/contents/papers/0737.pdf
   * MGGAN (MGGAN: Solving Mode Collapse using Manifold Guided Training)
